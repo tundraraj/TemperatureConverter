@@ -13,4 +13,5 @@ Build instructions:
 
 Run instructions:
 ----------------
-Double click TemperatureConverter.exe
+1)Download App.zip from https://github.com/tundraraj/TemperatureConverter/tree/master/App
+2)Unzip App.zip and double click TemperatureConverter.exe
