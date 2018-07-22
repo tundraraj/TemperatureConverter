@@ -37,8 +37,7 @@ namespace TemperatureConverter
                 Console.WriteLine("Correct response  is {0}  ", Math.Round(resultTemperatureValue, 1));
             }
              
-                
-
+             
             //exit program
             Console.WriteLine("\nPlease enter any key to exit");
             Console.ReadLine();
